@@ -1,4 +1,3 @@
-Certamente! Ecco un esempio di README per un progetto di portfolio:
 
 # Portfolio
 
@@ -6,7 +5,7 @@ Questo è il mio portfolio personale, un sito web che presenta i miei progetti, 
 
 ## Caratteristiche
 
-Il progetto è divisi in due parti, uno Backend e uno Frontend:
+Il progetto è diviso in due parti, uno Backend e uno Frontend:
 
 La parte di Backend sarà acessibili solamente a me e mi servirà principalmente per caricare/modificare/eliminare i progetti inseriti
 La parte di Frontend sarà publicato e visualizzato da tutti
@@ -19,6 +18,7 @@ La parte di Frontend sarà publicato e visualizzato da tutti
 - CSS
 - JavaScript
 - PHP
+- VueJs
 - Framework Laravel
 - Framework VueJs
 
@@ -27,6 +27,7 @@ La parte di Frontend sarà publicato e visualizzato da tutti
 - Laravel
 - Bootstrap 
 - Breeze
+- Axios
 
 
 ## Contatti
